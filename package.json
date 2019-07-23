@@ -1,0 +1,33 @@
+{
+    "name": "my-blog",
+    "version": "1.0.0",
+    "description": "'个人前端博客'",
+    "main": "index.js",
+    "scripts": {
+        "dev": "vuepress dev docs",
+        "build": "vuepress build docs"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+ssh://git@github.com/yuhang04210/my-blog.git"
+    },
+    "keywords": [
+        "前端",
+        "js",
+        "html",
+        "css",
+        "react",
+        "vue",
+        "react-native",
+        "小程序"
+    ],
+    "author": "hangyu",
+    "license": "ISC",
+    "bugs": {
+        "url": "https://github.com/yuhang04210/my-blog/issues"
+    },
+    "homepage": "https://github.com/yuhang04210/my-blog#readme",
+    "dependencies": {
+        "vuepress": "^1.0.2"
+    }
+}
