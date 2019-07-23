@@ -4,7 +4,7 @@ const filehelper = require("../../util/getFilenames");
 const sidebars = filehelper.getSidebar();
 
 module.exports = {
-    base: "/my-blog/",
+    base: "/myBlog/",
     title: "my blog",
     description: "我的个人网站",
     head: [
@@ -16,7 +16,7 @@ module.exports = {
         lineNumbers: false // 代码块显示行号
     },
     themeConfig: {
-        repo: "https://github.com/yuhang04210/my-blog",
+        repo: "https://github.com/yuhang04210/myBlog",
         nav: [
             // 导航栏配置
             // { text: "前端基础", link: "/accumulate/" },
