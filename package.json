@@ -1,5 +1,5 @@
 {
-    "name": "my-blog",
+    "name": "myBlog",
     "version": "1.0.0",
     "description": "'个人前端博客'",
     "main": "index.js",
@@ -10,7 +10,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+ssh://git@github.com/yuhang04210/my-blog.git"
+        "url": "git+ssh://git@github.com/yuhang04210/myBlog.git"
     },
     "keywords": [
         "前端",
@@ -25,9 +25,9 @@
     "author": "hangyu",
     "license": "ISC",
     "bugs": {
-        "url": "https://github.com/yuhang04210/my-blog/issues"
+        "url": "https://github.com/yuhang04210/myBlog/issues"
     },
-    "homepage": "https://github.com/yuhang04210/my-blog#readme",
+    "homepage": "https://github.com/yuhang04210/myBlog#readme",
     "dependencies": {
         "vuepress": "^1.0.2"
     }
